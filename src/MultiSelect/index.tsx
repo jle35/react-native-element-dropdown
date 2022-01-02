@@ -18,7 +18,7 @@ const ic_down = require('../assets/icon/down.png');
 
 const defaultProps = {
   placeholder: 'Select item',
-  activeColor: '#F6F7F8',
+  activeColor: '#366a9e',
   backgroundColor: 'white',
   data: [],
   style: {},
